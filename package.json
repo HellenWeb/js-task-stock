@@ -1,0 +1,26 @@
+{
+  "name": "js-task-stock",
+  "version": "1.0.0",
+  "description": "Solving task \"best time to buy stock\" on js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "mocha index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HellenWeb/js-task-stock.git"
+  },
+  "author": "Hellen <hellen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HellenWeb/js-task-stock/issues"
+  },
+  "homepage": "https://github.com/HellenWeb/js-task-stock#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "mocha": "^9.0.2",
+    "nodemon": "^2.0.12"
+  }
+}
