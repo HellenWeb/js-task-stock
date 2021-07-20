@@ -1,2 +1,2 @@
-# js-task-stock
-Solving task "best time to buy stock" on js
+# Javascript Task - "Purchase of shares"
+~~ Solving task "best time to buy stock" on js
